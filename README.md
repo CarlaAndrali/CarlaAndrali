@@ -1,6 +1,6 @@
-## Oii eu sou a Carla, e aqui está um pouco sobre mim! ✨ 
+## Oii eu sou a Carla! ✨ 
 
-   | Sou formada em Psicologia e hoje estou em trnasição de carreira. Curso Análise e Desenvolvimento de Sistemas, e foco meus estudos para a área que mais me interessa: Dados! | ![ezgif com-resize](https://github.com/CarlaAndrali/CarlaAndrali/assets/129233037/cf004855-d4c5-4fc9-9ec3-2364fb31ed22) |
+   | Sou formada em Psicologia e hoje sigo em transição de carreira. Curso Análise e Desenvolvimento de Sistemas, e foco meus estudos extracurriculares para a área que mais me interessa: Dados!👩‍💻| ![ezgif com-resize](https://github.com/CarlaAndrali/CarlaAndrali/assets/129233037/cf004855-d4c5-4fc9-9ec3-2364fb31ed22) |
    |---|---|
 
  ### Estudos atuais:
