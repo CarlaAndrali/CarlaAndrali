@@ -4,12 +4,14 @@
     Oii eu sou a Carla! ✨
 </h1>
 
-<p align="justify">Sou formada em Psicologia e hoje sigo em transição de carreira. Curso Análise e Desenvolvimento de Sistemas, e foco meus estudos extracurriculares para a área que mais me interessa: Dados!👩‍💻. 
+<p align="justify">Graduanda em Análise e Desenvolvimento de Sistemas (ADS), em busca de estágio para iniciar trajetória profissional na área de Dados!👩‍💻. 
 <br>
    
-<h3 align="left">Estudos atuais:</h3>
+<h3 align="left">Conhecimentos atuais:</h3>
 
-* GitHub | Git | Python | VsCode | SQL | MySQL | PowerBI
+* Básicos -> Python | SQL (SQL Server / SSMS) | Power BI | GitHub
+* Teóricos -> NoSQL | ETL / ELT | GIT | Machine Learning / ML | AWS | Azure | MySQL
+* Complementares -> Pacote Office | Inglês | Linux | VsCode
 
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
